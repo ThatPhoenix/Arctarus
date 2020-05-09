@@ -1,7 +1,5 @@
 # Arctarus
-Full of Arctarus Scripts!
-:)
+Arctarus is a paid ROBLOX ServerSide that gives our users server access to ROBLOX games.
 
-# Scripts
-
-Arctarus is a Paid ServerSided executor based on ROBLOX, it is a cheap SS, and has its focus on RP based games. Cafes,Hotels, ect.
+# Contact
+You may contact us on our Discord. https://discord.gg/MAv4xGp
